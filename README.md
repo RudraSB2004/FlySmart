@@ -50,6 +50,5 @@ It taught me how full ML pipelines work in real projects.
 This project may be basic for some,  
 but for me it was a **huge confidence boost** and a great start to ML web integration.
 
----
 
-## 📁 Folder Structure  
+
